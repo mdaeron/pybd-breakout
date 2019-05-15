@@ -26,9 +26,11 @@ I then removed excess solder and bridges using solder wick and a soldering iron.
 At this stage I thoroughly tested the connector pins for bridges/shorts, using a multimeter under a binocular microscope.
 
 I then added female pin headers:
+
 ![](photos/perspective_without_pyboard.jpg)
 
 And finally the pyboard itself:
+
 ![](photos/perspective_with_pyboard.jpg)
 ![](photos/with_pyboard.jpg)
 ![](photos/profile.jpg)
